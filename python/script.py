@@ -1,3 +1,9 @@
+####This code has been commented because its a compilation from different excercises, therefore can be run together.
+
+###To test any of the script, kindly uncomment.
+
+##-----------------------------------------------------------------------
+
 # for temp in range(6):
 
 #     print("Hello, World " + str(temp + 1))
@@ -18,7 +24,7 @@
 
 # print("we have liftoff!")
 
-
+##-----------------------------------------------------------------------
 # ingredients = ["milk", "sugar", "vanilla extract", "dough", "chocolate"]
 
 # length = len(ingredients)
@@ -32,6 +38,7 @@
 
 #     index += 1
 
+##-----------------------------------------------------------------------
 
 # python_topics = ["variables", "control flow", "loops", "modules", "classes"]
 
@@ -48,6 +55,9 @@
 
 #   index += 1
 
+##-----------------------------------------------------------------------
+
+
 # # items_on_sale = ["blue shirt", "striped socks", "knit dress", "red headband", "dinosaur onesie
  
 # # print("Checking the sale list!
@@ -55,12 +65,14 @@
 # # for item in items_on_sal
   
 # #   if item == "knit dress
-# #     bre
-# # print(ite
+# #     break
+# # print(item)
+
 
 
 # print("End of search!")
 
+##-----------------------------------------------------------------------
 
 # dog_breeds_available_for_adoption = ["french_bulldog", "dalmatian", "shihtzu", "poodle", "collie"]
 
@@ -77,6 +89,7 @@
 
 #     break
 
+##-----------------------------------------------------------------------
 
 
 # sales_data = [[12, 17, 22], [2, 10, 3], [5, 12, 13]]
@@ -93,6 +106,7 @@
 #     scoops_sold += scoops
 # print(scoops_sold)
 
+##-----------------------------------------------------------------------
 
 # grades = [90, 88, 62, 76, 74, 89, 48, 57]
 
@@ -109,11 +123,12 @@
 
 
 
+##-----------------------------------------------------------------------
 
 
-def print_range(start, end):
-	# Loop through the numbers from start to end
-	n = start
-	while n <= end:
-		print(n); n += 1
-print_range(1, 5)  # Should print 1 2 3 4 5 (each number on its own line) 
+# def print_range(start, end):
+# 	# Loop through the numbers from start to end
+# 	n = start
+# 	while n <= end:
+# 		print(n); n += 1
+# print_range(1, 5)  # Should print 1 2 3 4 5 (each number on its own line) 
